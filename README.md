@@ -89,11 +89,6 @@ This is the next generation of hands-free bidding platforms, blending modern web
 
 ![image](https://github.com/user-attachments/assets/1563de90-c365-47b2-9ced-a624912789fe)
 
-## Demo Video
-
-https://www.linkedin.com/posts/ishant-gupta-138726250_codeclashhackathon-voiceai-nextjs-activity-7343506697316884482-2XiZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4LHzwB3BLKom_VlIPDLrlBMbToQgOZ4_M
-
-
 ---
 
 ## 🗣 Example Voice Commands
